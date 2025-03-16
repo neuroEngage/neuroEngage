@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## About Me  <br>👋 Hi there! I'm **Nagesh Shankar Khichade**, a passionate **AI/ML enthusiast, data analyst, and aspiring AI consultant** from **Pune, India**. With a strong foundation in **artificial intelligence, data science, business analytics, and UI/UX design**, I thrive on solving real-world problems through data-driven insights and machine learning innovations.  <br><br>🌱 **What I'm Working On:**  <br>- Building **personalized AI-driven recommendation systems** for fitness and diet planning.  <br>- Developing **Fuzzy Min-Max Neural Network models** for medical data classification.  <br>- Exploring the intersection of **AI, business consulting, and market research** to drive strategic decision-making.  <br>- Designing intuitive and user-friendly **UI/UX experiences** using **Figma**.  <br><br>💡 **Interests:**  <br>- **Artificial Intelligence & Machine Learning**  <br>- **Data Science & Business Analytics**  <br>- **Generative AI (GPT, VAE, GANs, LLMs, NLP, Image Processing)**  <br>- **Tech-driven Market Research & Business Strategy**  <br>- **UI/UX Design & Product Management**  <br>- **Project Management & Agile Methodologies**  <br><br>🚀 **Current Projects:**  <br>- **Heart Disease Prediction** using machine learning models for diagnostic insights.  <br>- **Hiring Process Analytics** to optimize recruitment strategies.  <br>- **IMDB Movies Analysis** for understanding trends in the entertainment industry.  <br>- **Network Optimization for Logistics**, minimizing costs using demand-based route mapping.  <br>- **Fuzzy Min-Max Neural Network for Medical Data Classification**, enhancing precision in medical AI.  <br>- **Fitness App UI/UX Design** – Developed an intuitive interface to improve user engagement using **Figma**.  <br>- **Recipe Finder UI** – Designed a seamless interface for an AI-powered recipe recommendation system.  <br><br>🎓 **Learning Goals:**  <br>- Using AI for the betterment of solving complex problems in healthcare, logistics, and business intelligence.  <br>- Applying **Generative AI models (GPT, VAE, GANs)** for predictive and creative solutions.  <br>- Developing AI-driven **business consulting solutions** to support data-driven decision-making.  <br>- Enhancing expertise in **Fuzzy Logic, NLP, and AI-driven automation**.  <br>- Mastering **Project Management principles**, including Agile, Scrum, and stakeholder coordination.  <br><br>📫 **Let's Connect!**  <br>I'm always open to **collaborations, AI-driven innovation, and consulting opportunities**. Let's discuss cutting-edge AI solutions or geek out over business strategy!  <br>🔗 [GitHub](https://github.com/neuroEngage/) | [LinkedIn](https://www.linkedin.com/in/nagesh-khichade-210875212/) | 📧 nageshkhichade00@gmail.com  <br><br>
 
-<!--
-**neuroEngage/neuroEngage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=neuroEngage&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=neuroEngage&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neuroEngage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neuroEngage&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=neuroEngage&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
